@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.operator;
 
 public class LogicalOperator {
     public static void main(String[] args) {
