@@ -1,6 +1,6 @@
-package com.example.Array;
+package com.example.array;
 
-public class arra {
+public class Arra {
     public static void main(String[] args) {
 
         // int[] rollNums = new int[3];
