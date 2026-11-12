@@ -6,7 +6,7 @@ public class Arr2d {
         // Multi dimensional array
 
 //        int [][] marks = new int[3][3];
-//        marks [0][0] = 23;
+//        marks[0][0] = 23;
 //        marks[0][1] = 25;
 //        marks[0][2] = 45;
 //
